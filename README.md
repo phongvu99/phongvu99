@@ -8,6 +8,6 @@
 - 💬 Ask me about anything web development related.
 - 📫 How to reach me: You don't find me. I find you.
 - 😄 Pronouns: Mr. Anderson
-- ⚡ Fun fact: I'm an altheist and an advocator for All Lives Matter (What? U mad, bro?). 
+- ⚡ Fun fact: I'm an atheist and an advocator for All Lives Matter (What? U mad, bro?). 
 - ⚡ Looking forward to learn Kotlin, React and React Native in the future.
 
