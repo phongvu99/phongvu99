@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Magento Module(s)
 - 🌱 I’m currently learning Magento and PHP 
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with depression.
 - 💬 Ask me about anything web development related.
 - 📫 How to reach me: You don't find me. I find you.
 - 😄 Pronouns: Phong || Fong || Wind || be creative
