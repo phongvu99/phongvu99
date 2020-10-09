@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Magento Module(s)
-- 🌱 I’m currently learning Magento and PHP 
+- 🔭 I’m currently working on Mask R-CNN
+- 🌱 I’m currently learning Python and MRCNN
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with depression.
 - 💬 Ask me about anything web development related.
